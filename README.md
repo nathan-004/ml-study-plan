@@ -1,8 +1,5 @@
 # The Ultimate FREE Machine Learning Study Plan
 
-![In Progress](https://img.shields.io/badge/status-%F0%9F%9A%A7%20In%20Progress-yellow)
-![Done](https://img.shields.io/badge/status-%E2%9C%85%20Done-brightgreen)
-
 A complete study plan to become a Machine Learning Engineer with links to all FREE resources. If you finish the list you will be equipped with enough theoretical and practical experience to get started in the industry! I tried to limit the resources to a minimum, but some courses are extensive.
 
 <div align="center">
@@ -25,10 +22,12 @@ Watch the video on YouTube for instructions:
 
 ### 0. Prerequisites
 - [ ] Linear Algebra and Multivariate Calculus
-    <details>
-        <summary><img src="https://img.shields.io/badge/status-%F0%9F%97%BF%20To%20Do-lightgrey)"><a href="https://www.khanacademy.org/math/multivariable-calculus" target="_blank">Khan Academy - Multivariable Calculus</a></summary>
-        <ul>à continuer</ul>
-    </details>
+    - [ ] [Khan Academy - Multivariable Calculus](https://www.khanacademy.org/math/multivariable-calculus)
+         - [ ] Unit 1: Thinking about multivariable functions
+         - [ ] Unit 2: Derivatives of multivariable functions
+         - [ ] Unit 3: Applications of multivariable derivatives
+         - [ ] Unit 4: Integrating multivariable functions
+         - [ ] Unit 5: Green's, Stokes', and the divergence theorems
     - [ ] [Khan Academy - Differential Equations](https://www.khanacademy.org/math/differential-equations)
     - [ ] [Khan Academy - Linear Algebra](https://www.khanacademy.org/math/linear-algebra)
     - [ ] [3Blue1Brown - Essence of Linear Algebra](https://www.3blue1brown.com/essence-of-linear-algebra-page/)
