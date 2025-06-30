@@ -23,6 +23,8 @@ Watch the video on YouTube for instructions:
 ### 0. Prerequisites
 - [ ] Linear Algebra and Multivariate Calculus
     - [ ] [Khan Academy - Multivariable Calculus](https://www.khanacademy.org/math/multivariable-calculus)
+         - [ ] Prerequisites
+              - [ ] [Single-variable calculus](https://en.khanacademy.org/math/ap-calculus-ab)
          - [ ] Unit 1: Thinking about multivariable functions
          - [ ] Unit 2: Derivatives of multivariable functions
          - [ ] Unit 3: Applications of multivariable derivatives
