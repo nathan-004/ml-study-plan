@@ -2,16 +2,6 @@
 
 A complete study plan to become a Machine Learning Engineer with links to all FREE resources. If you finish the list you will be equipped with enough theoretical and practical experience to get started in the industry! I tried to limit the resources to a minimum, but some courses are extensive.
 
-<div align="center">
-    
-Watch the video on YouTube for instructions:  
-[![Alt text](https://img.youtube.com/vi/dYvt3vSJaQA/hqdefault.jpg)](https://www.youtube.com/watch?v=dYvt3vSJaQA)  
-[https://www.youtube.com/watch?v=dYvt3vSJaQA](https://www.youtube.com/watch?v=dYvt3vSJaQA)
-</div>
-#### IMPORTANT: 
-- This list is not sponsored by any of the mentioned links! I did a lot of the courses myself and can highly recommend them!
-- This list takes a lot of time and effort to finish if you want to do it properly! The list does not look that long, but don't underestimate it.
-
 #### How to use the Plan:
 - For theory lectures: Follow along, take notes, and repeat the notes afterwards.
 - For practical lectures/courses: Follow along, take notes. If they provide exercises, do them!!! Do not just google the answer, but try to solve it yourself first!
